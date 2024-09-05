@@ -13,5 +13,10 @@ let dados = [
         titulo: "Beatriz Souza",
         descricao: "Beatriz Souza é uma judoca brasileira que se destacou nos Jogos Olímpicos. Com sua técnica apurada e determinação, ela conquistou a medalha de no judô, inspirando jovens atletas e mostrando a força do esporte feminino no Brasil.",
         link: "https://pt.wikipedia.org/wiki/Beatriz_Souza"
+    },
+    {
+        titulo: "Tatiana Weston-Webb",
+        descricao: "Tatiana Weston-Webb é uma surfista profissional brasileira-americana que conquistou o mundo com sua habilidade e determinação nas ondas. Nascida em Porto Alegre, mas radicada no Havaí, ela já acumula diversos títulos e conquistas importantes em sua carreira, como a medalha de prata nos Jogos Olímpicos de Tóquio. Sua paixão pelo surfe, aliada a um talento nato, a transformou em um dos maiores nomes do esporte, inspirando uma nova geração de surfistas. Com sua presença marcante nos principais campeonatos do mundo, Tatiana Weston-Webb continua a fazer história e a levar o nome do Brasil para o alto.",
+        link: "https://pt.wikipedia.org/wiki/Tatiana_Weston-Webb"
     }
 ];
