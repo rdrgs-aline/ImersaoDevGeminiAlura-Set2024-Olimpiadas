@@ -36,13 +36,3 @@ Ela te ajuda a encontrar as informações que você precisa de forma rápida e f
 * **Dados:** Os dados dos atletas estão no arquivo "dados.js". Vocë pode adicionar mais dados ai se quiser.
 * **Design:** O design da página está no arquivo "style.css". Se você quiser mudar as cores ou a fonte, é só editar esse arquivo.
 * **Funcionalidade:** A lógica da pesquisa está no arquivo "app.js". Se você quiser adicionar mais funcionalidades, é só editar esse arquivo.
-
-**Lembre-se:** Essa aplicação é um projeto simples, mas com muito potencial. A ideia é que ela seja uma base para você criar algo ainda mais incrível! 
-
-**Dúvidas?**
-
-Se tiver alguma dúvida, pode abrir uma issue aqui no Github ou me mandar um email.
-
-**Vamos juntos transformar essa aplicação em um portal completo para os amantes do esporte!** 
- 
-**#Olimpíadas #AtletasDoBrasil #DesenvolvimentoWeb**
